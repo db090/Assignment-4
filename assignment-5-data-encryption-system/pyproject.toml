@@ -1,0 +1,11 @@
+[project]
+name = "assignment-5-data-encryption-system"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "cryptography>=44.0.2",
+    "pytest>=8.3.5",
+    "streamlit>=1.44.1",
+]
