@@ -17,4 +17,4 @@ if st.button("login"):
         #optional delay before redirect
         st.rerun()
     else:
-        st.error("Please enter  both username and password")
+        st.error("Please enter both username and password")

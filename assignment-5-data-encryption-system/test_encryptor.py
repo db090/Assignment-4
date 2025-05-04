@@ -27,4 +27,4 @@ def test_output_is_string():
     passkey = "Key123"
 
     encrypted = encrypt_message(message, passkey)
-    assert isinstance(encrypted, int), "Encrypted output should be a string"
+    assert isinstance(encrypted, int), "Encrypted output should be a string "
